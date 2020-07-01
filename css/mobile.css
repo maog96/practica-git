@@ -1,0 +1,48 @@
+/* MEDIA PARA TABLET* INICIO*/
+
+
+  .section-info-1,
+  .section-info-2,
+  .section-info-3,
+  .article-info
+  {
+    width: 100%;
+    text-align: center;
+  }
+
+  .section-info-bg-img{
+    display: none;
+  }
+
+
+  .btn-hbt
+  {
+    width: 100%;
+    float:none;
+    text-align: center;
+    padding-top: 10px;
+    margin: 0px;
+    font-size: 20px;
+  }
+
+  .btn-nav{
+    width: 100%;
+    float: none;
+    text-align: center;
+    padding-top: 5px;
+    margin:0px;
+  }
+
+  nav ul li{
+    float:none;
+    list-style: none;
+    margin:0px;
+    padding:0px;
+  }
+header{
+  height: 120px;
+}
+
+
+
+/* MEDIA PARA TABLET* FIN*/

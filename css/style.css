@@ -1,0 +1,183 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+header{
+  height: 50px;
+}
+
+
+.bg-dark{
+  background-color: #333;
+}
+
+
+.align-center{
+  text-align: center;
+}
+
+
+.clear {
+  clear: both;
+}
+
+
+.btn-hbt{
+  float:left;
+  padding-top: 10px;
+  margin:5px 7px;
+  font-weight: bold;
+}
+
+
+.btn-nav{
+  float:right;
+  padding-top: 10px;
+  margin-right: 7px;
+  }
+
+
+
+  div.btn-about-1 a{
+    padding: 10px;
+    background-color:#333;
+    color:white;
+  }
+
+
+  div.btn-about-2 a{
+    padding: 10px;
+    background-color:white;
+    color:#333;
+  }
+
+
+  a{
+
+  text-decoration: none;
+  color:#f4f4f4;
+  
+}
+
+
+nav ul li{
+  float:left;
+  list-style: none;
+  margin:5px 7px;
+}
+
+
+
+#section-home{
+  background-image: url("../img/showcase.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+div.div-home{
+  padding: 110px 80px;
+}
+
+
+h1,h2,h3{
+  padding-bottom: 30px;
+}
+
+
+h1,h2{
+  color:#f4f4f4;
+}
+
+
+h1{
+  font-size: 40px;
+}
+
+
+
+div.div-home p, article.article-info p{
+  color:white;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+
+
+.section-info-1{
+  float:left;
+  width: 33.3%;
+  padding:10px 0 20px 0;
+}
+
+
+
+.section-info-2{
+  float:left;
+  width: 33.3%;
+  padding:10px 0 20px 0;
+  background-color:#FF9A66;
+}
+
+
+
+.section-info-3{
+  float:right;
+  width: 33.3%;
+  padding:10px 0 20px 0;
+}
+
+
+
+.article-img{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+  padding:10px 0;
+}
+
+
+
+.section-info-bg-img{
+  background-image: url("../img/photo-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 50%;
+  float:left;
+  height: 300px;
+}
+
+
+
+#footer p{
+  padding:10px;
+  color:#f4f4f4;
+}
+
+
+
+.div-article-info{
+  padding-top: 30px;
+  font-size: 14px;
+}
+
+
+
+.article-info{
+  width: 50%;
+  float:right;
+  height: 300px;
+}
+
